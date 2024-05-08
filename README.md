@@ -9,7 +9,6 @@
 * Jquery;
 * Swiper Slider;
 * Wow-js;
-* Fancybox 3.5;
 * Nice-select;
 
 
